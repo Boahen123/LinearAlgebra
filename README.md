@@ -4,9 +4,9 @@ Explore the usage of Python and MATLAB in the study of Linear Algebra. <br>
 This is a Jupyter notebook that using *MATLAB* kernel with Jupyter in the study of Linear Algebra. Access *MATLAB* documentation also view a youtube video on how to use Jupyter with *MATLAB* kernel: <br>
 - [Youtube link](https://youtu.be/WufMGW5Bv4g) <br>
 - [MATLAB linear algebra docs](https://www.mathworks.com/help/matlab/linear-algebra.html?searchHighlight=linear%20Algebra&s_tid=srchtitle_linear%20Algebra_1)
-<br>
+<br/>
 Learn how to setup *LaTeX* markup for jupyter notebooks using this link: <br>
-- [LaTeX in Jupyter](https://linuxhint.com/use-latex-jupyter-notebook/)
+- [LaTeX in Jupyter] (https://linuxhint.com/use-latex-jupyter-notebook/)
 
 <br>
 
