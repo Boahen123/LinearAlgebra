@@ -15,8 +15,9 @@ Learn how to setup <i>LaTeX</i> markup for jupyter notebooks using this link:
 <code>PythonKernel</code> is a Jupyter kernel for Python. <br>
 This is a Jupyter notebook that using Python and its libraries in the study of Linear Algebra. The numpy library is used, particularly it's submodule for linear algebra, access their documentation here:
 
-- [TensorFlow](https://www.tensorflow.org/api_docs/python/tf)
+<!-- - [TensorFlow](https://www.tensorflow.org/api_docs/python/tf) -->
 - [NumPy](https://numpy.org/)
 - [SciPy](https://docs.scipy.org)
+- [Sympy](https://docs.sympy.org/latest/modules/matrices/matrices.html#linear-algebra)
 
 The textbook used for this study is: <i>Linear Algebra and its Applications by David C. Lay (University of Maryland - College Park) 4th Edition</i>
