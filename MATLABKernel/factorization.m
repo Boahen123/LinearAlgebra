@@ -8,3 +8,6 @@ A = [2 4 6; 1 7 5; 3 8 1];
 L_rats = rats(L)
 U_rats = rats(U)
 % P_rats = rats(P)
+
+
+title('Span of u and v');
